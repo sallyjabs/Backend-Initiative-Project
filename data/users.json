@@ -1,0 +1,36 @@
+{
+  "1": {
+    "name": "Jabs Arthur",
+    "password": "password1",
+    "profession": "Engineer",
+    "id": 1
+  },
+  "2": {
+    "name": "Adina Kendal",
+    "password": "password3",
+    "profession": "Programmer",
+    "id": 2
+  },
+  "3": {
+    "name": "Sim Tanko",
+    "password": "password2",
+    "profession": "Scientist",
+    "id": 6
+  },
+  "4": {
+    "4": {
+      "name": "Jabs Arthur",
+      "password": "password1",
+      "profession": "Engineer",
+      "id": 7
+    }
+  },
+  "5": {
+    "8": {
+      "name": "Jabs Arthur",
+      "password": "password1",
+      "profession": "Engineer",
+      "id": 71
+    }
+  }
+}
