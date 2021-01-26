@@ -14,18 +14,6 @@ const appRouter = (app, fs) => {
     res.send('welcome to the development api-server');
   });
 
-  app.post('/', (req, res) => {
-      res.status(200).send('new user added');
-      });
-
-  app.put('/:id', (req, res) => {
-      res.status(200).send(`users updated`);
-      });
-    
-  app.delete('/:id', (req, res) => {
-      res.status(200).send(`user removed`);
-      });
-      
   // run our user route module here to complete the wire up
   // other routes
   userRoutes(app, fs);

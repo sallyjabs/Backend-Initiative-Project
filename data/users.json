@@ -18,19 +18,15 @@
     "id": 6
   },
   "4": {
-    "4": {
-      "name": "Jabs Arthur",
-      "password": "password1",
-      "profession": "Engineer",
-      "id": 7
-    }
+    "name": "Jabs Arthur",
+    "password": "password1",
+    "profession": "Engineer",
+    "id": 71
   },
   "5": {
-    "8": {
-      "name": "Jabs Arthur",
-      "password": "password1",
-      "profession": "Engineer",
-      "id": 71
-    }
+    "name": "Ash Wed",
+    "password": "12345",
+    "profession": "Programmer",
+    "id": 7
   }
 }
